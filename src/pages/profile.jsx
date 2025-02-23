@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 
-export const ProfilePage = () => {
+export const ProfilePage = ({profileNumber}) => {
     return (    
 
 
